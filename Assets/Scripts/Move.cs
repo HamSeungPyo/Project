@@ -5,6 +5,7 @@ using UnityEngine;
 public class Move : MonoBehaviour {
 
 	private int a;
+    public float abc;
 	// Use this for initialization
 	void Start () {
 		
@@ -14,7 +15,5 @@ public class Move : MonoBehaviour {
 	void Update () {
 		
 	}
-
-	//기타 등등
 	
 }
